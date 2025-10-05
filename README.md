@@ -7,8 +7,7 @@
 
 ### 🔍 What I'm working on
 - 🧠 Improving my skills in **React**, **JavaScript**, and **Frontend Development**  
-- 🔐 Developing small **Web Security tools** and sharing them on GitHub  
-- 🌍 Growing **Codcoders** into a hub for creative programmers  
+- 🔐 Developing small **Web Security tools** and sharing them on GitHub 
 
 ---
 
