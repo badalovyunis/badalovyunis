@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Yunis Badalov
 
 💻 **Information Security student** from Azerbaijan  
-🚀 **Founder of [Codcoders](@Codcoders)** — a creative space where I share everything about **AI, programming, and tech**  
+🚀 **[Codcoders](@Codcoders)** — a creative space where I share everything about **AI, programming, and tech**  
 ⚙️ Currently building modern web apps with **React**, and exploring the world of **Web Security**  
 
 ---
