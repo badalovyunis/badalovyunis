@@ -1,40 +1,31 @@
-# 👋 Hey there, I'm Yunis Badalov
-
-💻 **Information Security student** from Azerbaijan  
-⚙️ Currently building modern web apps with **React**, and exploring the world of **Web Security**  
+# YUNIS BADALOV
+> **Information Security Student | Web Security Enthusiast | React Developer**
 
 ---
 
-### 🔍 What I'm working on
-- 🧠 Improving my skills in **React**, **JavaScript**, and **Frontend Development**  
-- 🔐 Developing small **Web Security tools** and sharing them on GitHub 
+👋 Hi, I'm **Yunis** — an Information Security student from **Azerbaijan**, passionate about **Web Security** and **modern web development**.  
+I enjoy creating secure and creative web applications, exploring cybersecurity tools, and continuously learning new technologies.
+
+ - Building interactive web apps with **React** and **JavaScript**  
+ - Exploring **Web Security**, ethical hacking, and vulnerability testing  
+ - Skilled in **C++, Python, JavaScript**  
+ - Using **HTML, CSS, React, Tailwind CSS** for front-end  
+ - Tools: **Git, GitHub, Linux, VS Code, Cisco Packet Tracer, Burp Suite, Wireshark**
 
 ---
 
-### 🛠️ Tech Stack & Skills
-#### 💻 Programming Languages
-- **C**, **C++**, **C#**, **JavaScript**, **Python**
-
-#### 🌐 Frontend
-- **HTML**, **CSS**, **React**, **Tailwind CSS**, **Vite**
-
-#### 🔒 Web Security
-- Web Vulnerability testing (XSS, SQLi, CSRF)  
-- Network analysis using **Wireshark**  
-- Web application testing with **Burp Suite**  
-- Understanding OWASP Top 10 and basic **pentesting techniques**
-
-#### ⚙️ Tools & Environment
-- **Git**, **GitHub**, **Linux**, **VS Code**, **Cisco Packet Tracer**
+> My vision is to combine creativity and security in every project I build — developing web applications that are not only modern and visually engaging, but also robust, reliable, and designed to have a meaningful impact for users while keeping security at the forefront of every decision.
 
 ---
 
-### 📈 My GitHub Stats
-![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-
+### GitHub Stats
+![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ---
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-Yunis%20Badalov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/badalovyunis)
-
+### Streak
+![Yunis' GitHub stats](https://streak-stats.demolab.com?user=badalovyunis&theme=blue-green&hide_border=true)
 ---
+### Top Languages
+![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badalovyunis&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+---
+### TryHackMe Progress  
+[<img src="https://tryhackme-badges.s3.amazonaws.com/badyus.png" alt="TryHackMe Badge" width="200"/>](https://tryhackme.com/p/badyus)
