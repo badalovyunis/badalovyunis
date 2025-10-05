@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Yunis Badalov
 
 💻 **Information Security student** from Azerbaijan  
-🚀 **[Codcoders](@Codcoders)** — a creative space where I share everything about **AI, programming, and tech**  
 ⚙️ Currently building modern web apps with **React**, and exploring the world of **Web Security**  
 
 ---
@@ -37,6 +36,6 @@
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-Yunis%20Badalov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yunis-badalov-9aa21227b)
+[![LinkedIn](https://img.shields.io/badge/-Yunis%20Badalov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/badalovyunis)
 
 ---
