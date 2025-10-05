@@ -30,7 +30,7 @@
 ---
 
 ### 📈 My GitHub Stats
-![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
