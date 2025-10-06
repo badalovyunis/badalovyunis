@@ -1,5 +1,5 @@
 # YUNIS BADALOV
-> **Information Security Student | Web Security Enthusiast | React Developer**
+**`Information Security Student | Web Security Enthusiast | React Developer`**
 
 ---
 
