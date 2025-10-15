@@ -17,15 +17,14 @@ I enjoy creating secure and creative web applications, exploring cybersecurity t
 > My vision is to combine creativity and security in every project I build — developing web applications that are not only modern and visually engaging, but also robust, reliable, and designed to have a meaningful impact for users while keeping security at the forefront of every decision.
 
 ---
-
-### GitHub Stats
-![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
----
 ### Streak
-![Yunis' GitHub stats](https://streak-stats.demolab.com?user=badalovyunis&theme=blue-green&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=badalovyunis&theme=react&hide_border=true)
+---
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badalovyunis&theme=react&show_icons=true&hide_border=true&count_private=true)
 ---
 ### Top Languages
-![Yunis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badalovyunis&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badalovyunis&theme=react&show_icons=true&hide_border=true&layout=compact)
 ---
 ### TryHackMe Progress  
 [<img src="https://tryhackme-badges.s3.amazonaws.com/badyus.png" alt="TryHackMe Badge" width="200"/>](https://tryhackme.com/p/badyus)
