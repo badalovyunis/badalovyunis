@@ -1,4 +1,4 @@
-# YUNIS BADALOV
+
 **`Information Security Student | Web Security Enthusiast | React Developer`**
 
 ---
@@ -14,6 +14,3 @@ I enjoy creating secure and creative web applications, exploring cybersecurity t
 
 ---
 
-> My vision is to combine creativity and security in every project I build — developing web applications that are not only modern and visually engaging, but also robust, reliable, and designed to have a meaningful impact for users while keeping security at the forefront of every decision.
-
----
